@@ -11,7 +11,7 @@ export default defineConfig({
     },
     source: {
         entry: {
-            index: './index.tsx',
+            index: './src/index.tsx',
         },
         define: {
             'process.env.API_KEY': JSON.stringify(parsed?.GEMINI_API_KEY),
@@ -25,7 +25,7 @@ export default defineConfig({
     },
     resolve: {
         alias: {
-            '@': path.resolve(__dirname, '.'),
+            '@': path.resolve(__dirname, 'src'),
         },
     },
 });

@@ -1,11 +1,11 @@
 import React, { useEffect } from 'react';
-import { Navbar } from './components/Navbar';
-import { Hero } from './components/Hero';
-import { About } from './components/About';
-import { Experience } from './components/Experience';
-import { Projects } from './components/Projects';
-import { Contact } from './components/Contact';
-import { Footer } from './components/Footer';
+import { Navbar } from './components/layout/Navbar';
+import { Hero } from './components/sections/Hero';
+import { About } from './components/sections/About';
+import { Experience } from './components/sections/Experience';
+import { Projects } from './components/sections/Projects';
+import { Contact } from './components/sections/Contact';
+import { Footer } from './components/layout/Footer';
 import { LanguageProvider } from './contexts/LanguageContext';
 
 const App: React.FC = () => {

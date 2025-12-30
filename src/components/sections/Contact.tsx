@@ -1,7 +1,7 @@
 import React from 'react';
 import { Mail, MapPin, Github, Phone, Linkedin, Facebook } from 'lucide-react';
-import { Button } from './Button';
-import { useLanguage } from '../contexts/LanguageContext';
+import { Button } from '../ui/Button';
+import { useLanguage } from '../../contexts/LanguageContext';
 
 export const Contact: React.FC = () => {
   const { t } = useLanguage();
