@@ -1,0 +1,156 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "experience": "Experience",
+        "projects": "Projects",
+        "contact": "Let's Talk"
+    },
+    "hero": {
+        "available": "Available for Hire",
+        "title_line1": "Robust Backend",
+        "title_highlight": "Solutions",
+        "intro_p1": "I'm Pham Huy Dat, a Java Developer with",
+        "intro_p2": "years of experience building scalable microservices, optimizing databases, and ensuring high-availability enterprise applications.",
+        "view_projects": "View Projects",
+        "contact_me": "Contact Me",
+        "card_status": "Status: Build Success."
+    },
+    "about": {
+        "tech_arsenal": "Technical Arsenal",
+        "title": "About Me",
+        "header": "Designing efficient & maintainable",
+        "header_br": "enterprise applications.",
+        "p1_pre": "I am a Java Developer with",
+        "p1_post": "years of experience designing and developing enterprise-grade applications. My expertise lies in leveraging the Spring ecosystem (Spring Boot, Spring Cloud) and Microservices architecture to build scalable solutions.",
+        "p2": "I have a proven track record in integrating RESTful and SOAP Web Services, optimizing high-volume data processing, and ensuring system resilience. I am committed to delivering clean, efficient code that meets rigorous business requirements.",
+        "p3": "Currently, I am focused on modernizing legacy systems and enhancing performance through advanced caching strategies, database optimization, and containerization with Docker.",
+        "years_exp": "Years Experience",
+        "perf_boost": "Performance Boost"
+    },
+    "experience": {
+        "career_path": "Career Path",
+        "work_exp": "Work Experience",
+        "items": [
+            {
+                "id": "1",
+                "role": "Java Developer",
+                "company": "BES",
+                "period": "10/2023 – Present",
+                "description": [
+                    "Umoney Project: Optimized reading/handling of large Excel files, reducing memory usage and improving performance by 3–5x.",
+                    "Enhanced bulk insert/update operations for large datasets, achieving 5–10x faster performance.",
+                    "Simulated payment timeout and failure scenarios to improve system resilience.",
+                    "BCCS 2.0 Project: Developed core modules for product and service management.",
+                    "Optimized database queries to improve speed of storing and retrieving large-scale telecom data."
+                ]
+            },
+            {
+                "id": "2",
+                "role": "Java Developer",
+                "company": "Next Solutions",
+                "period": "04/2022 – 09/2023",
+                "description": [
+                    "KhangBaby Project: Developed backend services for product, inventory, and order management systems.",
+                    "Designed and implemented RESTful APIs for web applications.",
+                    "Built user interfaces for sales and inventory modules ensuring usability.",
+                    "Collaborated with business stakeholders to refine requirements and deliver core features."
+                ]
+            },
+            {
+                "id": "3",
+                "role": "Java Developer",
+                "company": "FTL",
+                "period": "04/2021 – 04/2022",
+                "description": [
+                    "M-Value Project: Migrated legacy Web MVC features to RESTful APIs to support mobile app integration.",
+                    "Developed UI components for the mobile asset valuation app.",
+                    "Carcassonne Project: Designed core game logic including tile placement and rule validation.",
+                    "Implemented scalable architecture for smooth gameplay interactions."
+                ]
+            }
+        ]
+    },
+    "projects": {
+        "portfolio": "Portfolio",
+        "featured": "Featured Projects",
+        "view_github": "View GitHub Profile",
+        "items": [
+            {
+                "id": "1",
+                "title": "Umoney - Digital Payment Platform",
+                "description": "A microservices-based financial platform for secure money transfers and bill payments. Optimized large-scale Excel processing by 3-5x and improved bulk data handling by 10x.",
+                "technologies": [
+                    "Microservices",
+                    "Java",
+                    "Oracle",
+                    "Performance Optimization"
+                ],
+                "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                "link": "https://github.com/waaiu"
+            },
+            {
+                "id": "2",
+                "title": "BCCS 2.0 - Telecom BSS",
+                "description": "Business Support System for the telecom industry managing products, services, and pricing. Implemented core modules and optimized database queries for large-scale data.",
+                "technologies": [
+                    "Spring Boot",
+                    "Oracle DB",
+                    "Batch Processing",
+                    "Telecom"
+                ],
+                "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                "link": "https://github.com/waaiu"
+            },
+            {
+                "id": "3",
+                "title": "KhangBaby Inventory System",
+                "description": "Sales and inventory management system designed to track stock and process orders. Built backend RESTful APIs and sales interfaces to streamline operations.",
+                "technologies": [
+                    "REST API",
+                    "Java",
+                    "Inventory Management",
+                    "Web App"
+                ],
+                "imageUrl": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                "link": "https://github.com/waaiu"
+            },
+            {
+                "id": "4",
+                "title": "M-Value & Carcassonne",
+                "description": "Asset valuation app migrated to RESTful APIs for mobile integration, and a digital board game implementation focusing on core logic and rule validation.",
+                "technologies": [
+                    "Legacy Migration",
+                    "Mobile Backend",
+                    "Game Logic",
+                    "Java"
+                ],
+                "imageUrl": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                "link": "https://github.com/waaiu"
+            }
+        ]
+    },
+    "contact": {
+        "get_in_touch": "Get in Touch",
+        "header": "Let's build something scalable.",
+        "subtext": "Whether you have a question about backend architecture, need help with a migration, or just want to connect, I'm available.",
+        "label_email": "Email",
+        "label_phone": "Phone",
+        "label_location": "Location",
+        "label_follow": "Follow Me",
+        "form_name": "Name",
+        "form_email": "Email",
+        "form_subject": "Subject",
+        "form_message": "Message",
+        "btn_send": "Send Message",
+        "subjects": {
+            "inquiry": "Project Inquiry",
+            "consulting": "Consulting",
+            "job": "Job Opportunity",
+            "other": "Other"
+        }
+    },
+    "footer": {
+        "rights": "All rights reserved."
+    }
+}

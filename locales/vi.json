@@ -1,0 +1,156 @@
+{
+    "nav": {
+        "home": "Trang chủ",
+        "about": "Giới thiệu",
+        "experience": "Kinh nghiệm",
+        "projects": "Dự án",
+        "contact": "Liên hệ"
+    },
+    "hero": {
+        "available": "Sẵn sàng làm việc",
+        "title_line1": "Giải pháp Backend",
+        "title_highlight": "Mạnh mẽ",
+        "intro_p1": "Tôi là Phạm Huy Đạt, Lập trình viên Java với hơn",
+        "intro_p2": "năm kinh nghiệm xây dựng microservices mở rộng, tối ưu hóa cơ sở dữ liệu và đảm bảo ứng dụng doanh nghiệp có tính sẵn sàng cao.",
+        "view_projects": "Xem dự án",
+        "contact_me": "Liên hệ",
+        "card_status": "Trạng thái: Build Thành công."
+    },
+    "about": {
+        "tech_arsenal": "Kỹ năng kỹ thuật",
+        "title": "Về tôi",
+        "header": "Thiết kế ứng dụng doanh nghiệp",
+        "header_br": "hiệu quả & dễ bảo trì.",
+        "p1_pre": "Tôi là Lập trình viên Java với hơn",
+        "p1_post": "năm kinh nghiệm thiết kế và phát triển ứng dụng cấp doanh nghiệp. Thế mạnh của tôi là tận dụng hệ sinh thái Spring (Spring Boot, Spring Cloud) và kiến trúc Microservices để xây dựng các giải pháp có khả năng mở rộng.",
+        "p2": "Tôi có kinh nghiệm thực tế trong việc tích hợp Web Services (RESTful & SOAP), xử lý dữ liệu khối lượng lớn và đảm bảo sự ổn định của hệ thống. Tôi cam kết mang lại mã nguồn sạch, hiệu quả, đáp ứng các yêu cầu kinh doanh khắt khe.",
+        "p3": "Hiện tại, tôi tập trung vào việc hiện đại hóa các hệ thống cũ và nâng cao hiệu suất thông qua các chiến lược caching nâng cao và tối ưu hóa cơ sở dữ liệu.",
+        "years_exp": "Năm kinh nghiệm",
+        "perf_boost": "Tăng hiệu suất"
+    },
+    "experience": {
+        "career_path": "Lộ trình sự nghiệp",
+        "work_exp": "Kinh nghiệm làm việc",
+        "items": [
+            {
+                "id": "1",
+                "role": "Java Developer",
+                "company": "BES",
+                "period": "10/2023 – Hiện tại",
+                "description": [
+                    "Dự án Umoney: Tối ưu hóa việc đọc/xử lý file Excel lớn, giảm bộ nhớ sử dụng và cải thiện hiệu suất gấp 3–5 lần.",
+                    "Cải thiện thao tác thêm/cập nhật hàng loạt cho tập dữ liệu lớn, đạt hiệu suất nhanh hơn 5–10 lần.",
+                    "Mô phỏng các kịch bản timeout và thất bại thanh toán để cải thiện khả năng phục hồi của hệ thống.",
+                    "Dự án BCCS 2.0: Phát triển các module cốt lõi cho quản lý sản phẩm và dịch vụ.",
+                    "Tối ưu hóa truy vấn cơ sở dữ liệu để tăng tốc độ lưu trữ và truy xuất dữ liệu viễn thông quy mô lớn."
+                ]
+            },
+            {
+                "id": "2",
+                "role": "Java Developer",
+                "company": "Next Solutions",
+                "period": "04/2022 – 09/2023",
+                "description": [
+                    "Dự án KhangBaby: Phát triển backend cho hệ thống quản lý sản phẩm, kho và đơn hàng.",
+                    "Thiết kế và triển khai RESTful APIs cho ứng dụng web.",
+                    "Xây dựng giao diện người dùng cho các module bán hàng và kho đảm bảo tính khả dụng.",
+                    "Phối hợp với các bên liên quan để hoàn thiện yêu cầu và bàn giao các tính năng cốt lõi."
+                ]
+            },
+            {
+                "id": "3",
+                "role": "Java Developer",
+                "company": "FTL",
+                "period": "04/2021 – 04/2022",
+                "description": [
+                    "Dự án M-Value: Chuyển đổi các tính năng Web MVC cũ sang RESTful APIs để hỗ trợ tích hợp ứng dụng di động.",
+                    "Phát triển các thành phần UI cho ứng dụng định giá tài sản trên di động.",
+                    "Dự án Carcassonne: Thiết kế logic cốt lõi của trò chơi bao gồm đặt thẻ và xác thực quy tắc.",
+                    "Triển khai kiến trúc có khả năng mở rộng để tương tác trò chơi mượt mà."
+                ]
+            }
+        ]
+    },
+    "projects": {
+        "portfolio": "Danh mục đầu tư",
+        "featured": "Dự án nổi bật",
+        "view_github": "Xem GitHub Profile",
+        "items": [
+            {
+                "id": "1",
+                "title": "Umoney - Nền tảng thanh toán số",
+                "description": "Nền tảng tài chính dựa trên microservices để chuyển tiền và thanh toán hóa đơn an toàn. Tối ưu hóa xử lý Excel quy mô lớn gấp 3-5 lần và cải thiện xử lý dữ liệu hàng loạt gấp 10 lần.",
+                "technologies": [
+                    "Microservices",
+                    "Java",
+                    "Oracle",
+                    "Performance Optimization"
+                ],
+                "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                "link": "https://github.com/waaiu"
+            },
+            {
+                "id": "2",
+                "title": "BCCS 2.0 - Telecom BSS",
+                "description": "Hệ thống hỗ trợ kinh doanh (BSS) viễn thông quản lý sản phẩm, dịch vụ và giá cả. Triển khai các module cốt lõi và tối ưu hóa truy vấn cơ sở dữ liệu cho dữ liệu lớn.",
+                "technologies": [
+                    "Spring Boot",
+                    "Oracle DB",
+                    "Batch Processing",
+                    "Telecom"
+                ],
+                "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                "link": "https://github.com/waaiu"
+            },
+            {
+                "id": "3",
+                "title": "Hệ thống kho KhangBaby",
+                "description": "Hệ thống quản lý bán hàng và kho được thiết kế để theo dõi tồn kho và xử lý đơn hàng. Xây dựng backend RESTful APIs và giao diện bán hàng để hợp lý hóa vận hành.",
+                "technologies": [
+                    "REST API",
+                    "Java",
+                    "Inventory Management",
+                    "Web App"
+                ],
+                "imageUrl": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                "link": "https://github.com/waaiu"
+            },
+            {
+                "id": "4",
+                "title": "M-Value & Carcassonne",
+                "description": "Ứng dụng định giá tài sản được chuyển đổi sang RESTful APIs cho tích hợp di động, và triển khai game board kỹ thuật số tập trung vào logic cốt lõi và xác thực quy tắc.",
+                "technologies": [
+                    "Legacy Migration",
+                    "Mobile Backend",
+                    "Game Logic",
+                    "Java"
+                ],
+                "imageUrl": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                "link": "https://github.com/waaiu"
+            }
+        ]
+    },
+    "contact": {
+        "get_in_touch": "Liên hệ",
+        "header": "Cùng xây dựng hệ thống mở rộng.",
+        "subtext": "Dù bạn có câu hỏi về kiến trúc backend, cần trợ giúp chuyển đổi hệ thống, hay chỉ muốn kết nối, tôi luôn sẵn sàng.",
+        "label_email": "Email",
+        "label_phone": "Điện thoại",
+        "label_location": "Địa điểm",
+        "label_follow": "Theo dõi",
+        "form_name": "Họ tên",
+        "form_email": "Email",
+        "form_subject": "Chủ đề",
+        "form_message": "Nội dung",
+        "btn_send": "Gửi tin nhắn",
+        "subjects": {
+            "inquiry": "Hỏi về dự án",
+            "consulting": "Tư vấn",
+            "job": "Cơ hội việc làm",
+            "other": "Khác"
+        }
+    },
+    "footer": {
+        "rights": "Bảo lưu mọi quyền."
+    }
+}
