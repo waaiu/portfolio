@@ -17,6 +17,9 @@ export default defineConfig({
             'process.env.API_KEY': JSON.stringify(parsed?.GEMINI_API_KEY),
         },
     },
+    output: {
+        assetPrefix: '/portfolio/',
+    },
     server: {
         port: 3000,
         publicDir: {
